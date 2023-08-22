@@ -11,3 +11,8 @@ Used https://github.com/FuPeiJiang/VD.ahk VD and _VD files for the functions nee
 NUM_OF_ROWS := 4
 NUM_OF_COLMS := 3
 `
+
+## movement
+- uses vim ALT + j,k,h,l to move to the different desktops in the grid
+- no wrap when reaching the end/beginning of the row/column
+
